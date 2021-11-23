@@ -13,12 +13,12 @@ var admin = Bot.getProperty("admin")
 if (user.telegramid == "" + admin + "") {
   let msg = message
   User.setProperty("id", msg, "integer")
-  Bot.runCommand("/bb59")
+  Bot.runCommand("/CutBal")
 } else {
   if (user.telegramid == "" + admin + "") {
     let msg = message
     User.setProperty("id", msg, "integer")
-    Bot.runCommand("/bb59")
+    Bot.runCommand("/CutBal")
   } else {
     return
   }
