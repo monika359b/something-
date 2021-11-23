@@ -1,12 +1,12 @@
 /*CMD
-  command: 📊 Statistics 📊
+  command: /statistics
   help: 
   need_reply: 
   auto_retry_time: 
   folder: Main Menu
   answer: 
   keyboard: 
-  aliases: 
+  aliases: 📊 Statistics 📊
 CMD*/
 
 let cur = Bot.getProperty("cur")
