@@ -1,5 +1,5 @@
 /*CMD
-  command: /bb59
+  command: /CutBal
   help: 
   need_reply: true
   auto_retry_time: 
