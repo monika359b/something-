@@ -1,5 +1,5 @@
 /*CMD
-  command: /bb2
+  command: /AddBal
   help: 
   need_reply: true
   auto_retry_time: 
