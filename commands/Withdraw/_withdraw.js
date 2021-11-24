@@ -1,12 +1,12 @@
 /*CMD
-  command: ↗️Withdraw↗️
+  command: /withdraw
   help: 
   need_reply: 
   auto_retry_time: 
   folder: Withdraw
   answer: 
   keyboard: 
-  aliases: 
+  aliases: ↗️Withdraw↗️
 CMD*/
 
 let stat = Bot.getProperty("" + user.telegramid + "")
