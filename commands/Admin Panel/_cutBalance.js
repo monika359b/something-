@@ -1,12 +1,12 @@
 /*CMD
-  command: ➖Cut Balance 💵
+  command: /cutBalance
   help: 
   need_reply: true
   auto_retry_time: 
   folder: Admin Panel
   answer: _🛠Enter User id?_
   keyboard: 
-  aliases: 
+  aliases: ➖Cut Balance 💵
 CMD*/
 
 var admin = Bot.getProperty("admin")
