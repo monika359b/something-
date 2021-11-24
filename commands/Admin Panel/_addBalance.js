@@ -1,12 +1,12 @@
 /*CMD
-  command: ➕Add Balance 💵
+  command: /addBalance
   help: 
   need_reply: true
   auto_retry_time: 
   folder: Admin Panel
   answer: _🛠Enter User id?_
   keyboard: 
-  aliases: 
+  aliases: ➕Add Balance 💵 
 CMD*/
 
 var admin = Bot.getProperty("admin")
