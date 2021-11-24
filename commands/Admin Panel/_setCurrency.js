@@ -1,12 +1,12 @@
 /*CMD
-  command: ⚙️Set Currency 💵
+  command: /setCurrency 
   help: 
   need_reply: true
   auto_retry_time: 
   folder: Admin Panel
   answer: 📌*Send Your Currency Name*
   keyboard: 
-  aliases: 
+  aliases: ⚙️Set Currency 💵
 CMD*/
 
 var admin = Bot.getProperty("admin")
