@@ -1,12 +1,12 @@
 /*CMD
-  command: ⚙️Set Daily Bonus
+  command: /setDailyBonus
   help: 
   need_reply: true
   auto_retry_time: 
   folder: Admin Panel
   answer: 📌*Send How Much You Want To Set*
   keyboard: 
-  aliases: 
+  aliases: ⚙️Set Daily Bonus
 CMD*/
 
 var admin = Bot.getProperty("admin")
