@@ -1,12 +1,12 @@
 /*CMD
-  command: 🔓Unban User
+  command: /unbanUser
   help: 
   need_reply: true
   auto_retry_time: 
   folder: Admin Panel
   answer: _🛠Enter User id?_
   keyboard: 
-  aliases: 
+  aliases: 🔓Unban User
 CMD*/
 
 var admin = Bot.getProperty("admin")
