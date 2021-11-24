@@ -1,12 +1,12 @@
 /*CMD
-  command: 🚦User Illertaion
+  command: /usedIllertaion
   help: 
   need_reply: 
   auto_retry_time: 
   folder: Admin Panel
   answer: 
   keyboard: 
-  aliases: 
+  aliases: 🚦User Illertaion
 CMD*/
 
 var admin = Bot.getProperty("admin")
