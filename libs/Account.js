@@ -4,7 +4,7 @@ function load(){
 
   HTTP.post( {
 
-    url: "http://example.com",
+    url: "https://tronb-production.up.railway.app/",
 
     success: libPrefix + 'onLoading '
 
